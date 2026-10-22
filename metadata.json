@@ -1,0 +1,8 @@
+{
+  "name": "LAMINA Cloud Mining & Liquidity Gateway",
+  "description": "Australian mineral cloud mining ecosystem for gold, silver, and precious metals with 500 to 500,000 FCFA contracts, 40% daily yield, mobile money pipelines, and private fund release vault.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
